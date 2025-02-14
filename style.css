@@ -1,0 +1,23 @@
+/* Romantic Pink and Gold */
+:root {
+    --primary-color: #ff6b6b;
+    --secondary-color: #ffd700;
+    --bg-gradient: linear-gradient(135deg, #ffe6e6, #ffd7d7);
+    --text-color: #4a4a4a;
+}
+
+/* Elegant Purple and Silver */
+:root {
+    --primary-color: #9d4edd;
+    --secondary-color: #e2e2e2;
+    --bg-gradient: linear-gradient(135deg, #f3e7ff, #e7dcf5);
+    --text-color: #2a2a2a;
+}
+
+/* Soft Blue and Rose */
+:root {
+    --primary-color: #5b8c9c;
+    --secondary-color: #ffb5b5;
+    --bg-gradient: linear-gradient(135deg, #e3f2f7, #fce8e8);
+    --text-color: #333333;
+}
